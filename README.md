@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" 
-        alt="Logo" width="290" height="225">
+        alt="Logo" width="500" height="250">
     </a>
 </div>
 

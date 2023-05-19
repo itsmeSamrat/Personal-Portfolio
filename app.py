@@ -25,7 +25,7 @@ PAGE_ICON = ":wave:"
 NAME = "Samrat Thapa"
 headline = """ ML/AI Engineer | Data Analyst | Data Science | Expertise in Python, R, ML, & Cloud Computing | Proficient in Data Visualization & Database Management | Open for challenging opportunities |"""
 DESCRIPTION = """
-Dedicated Data Scientist and Data Analyst with a keen interest in leveraging advanced technologies to drive impactful solutions. 
+Committed Data Scientist and Data Analyst with a keen interest in leveraging advanced technologies to drive impactful solutions. 
 With over 2+ years of experience in ML, AI, Python and SQL, I have successfully helped companies enhance their operations and achieve their goals by harnessing the power of data and AI.
 """
 EMAIL = "tsamrath40@gmail.com"
@@ -166,10 +166,10 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("👨🏻‍💻", "**Beenova AI | Data Analyst**")
-st.write("June 2021 - Dec 2021 | Internship | Toronto, Canada |")
+st.write("July 2021 - Dec 2021 | Internship | Toronto, Canada |")
 st.write(
     """
-- ✔️ Developed a 90% accurate ML model detecting elephant poaching in Southern Africa, aiding conservation and `reducing poaching by 10X`.
+- ✔️ Developed a 90% accurate ML model detecting elephant poaching in Southern Africa, aiding conservation and `reducing poaching by 2X`.
 - ✔️ Created training data for the model by consolidating data from 15+ sources.
 """
 )

@@ -50,7 +50,10 @@ CERTIFICATE = {
     "📜 AWS Academy Graduate - AWS Academy Machine Learning Foundations": "https://www.credly.com/badges/1a90355b-2ff6-468b-9685-c60a3e47956e/linked_in_profile",
     "📜 Machine Learning | Stanford University": "https://www.coursera.org/account/accomplishments/verify/5QDWPRFMLT7N?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
     "📜 Data Science Math Skills | Duke University": "https://www.coursera.org/account/accomplishments/verify/CPP688LG4EGL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+    "📜 Genomics Data Science with Galaxy": "https://www.coursera.org/account/accomplishments/certificate/JV2RG6CC4ZHK",
     "📜 Algorithms for DNA Sequencing": "https://www.coursera.org/account/accomplishments/certificate/XPFPKKAR57KT",
+    "📜 Command Line Tools for Genomic Data Science ": "https://www.coursera.org/account/accomplishments/certificate/CYSKLYNSHU2B",
+    "📜 How to Write and Publish a Scientific Paper ": "https://www.coursera.org/account/accomplishments/certificate/GAHFA5QH9WAK",
     "📜 Applied Analytics Using SAS Enterprise Miner": "https://www.credly.com/badges/3a4285f5-c4a4-4789-be12-e39d87bb33bd?source=linked_in_profile",
     "📜 Personal & Family Financial Planning": "https://www.coursera.org/account/accomplishments/certificate/YPJXCVTHBA78",
 }

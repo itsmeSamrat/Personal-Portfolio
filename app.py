@@ -35,6 +35,8 @@ SOCIAL_MEDIA = {
     "Medium": "https://medium.com/@itsmeSamrat",
 }
 PROJECTS = {
+    "🏆 AI Engineer | Skinopathy | Major Research Project | Toronto, Ontario, Canada | 4 months": "https://www.linkedin.com/in/itsmesamrat/",
+    "🏆 Data Analyst | Beenova AI | Major Research Project | Toronto, Canada | 6 months": "https://www.linkedin.com/in/itsmesamrat/",
     "🏆 EDA-on-Seattle-Airbnb-Data": "https://github.com/itsmeSamrat/EDA-on-Seattle-Airbnb-Data",
     "🏆 CreditCardFraudAnalysis-Using-Pytorch": "https://github.com/itsmeSamrat/CreditCardFraudAnalysis-Using-Pytorch",
     "🏆 Eye-Classification": "https://github.com/itsmeSamrat/Eye-Classification",
@@ -152,54 +154,7 @@ st.write(
 )
 
 
-# --- WORK HISTORY ---
-st.write('\n')
-st.subheader("Work Experience")
 
-# --- JOB 1
-st.write("👨🏻‍💻", "**Skinopathy | AI Engineer + Team Lead**")
-st.write("Sept 2022 - Dec 2022 | Internship | Toronto, Canada |")
-st.write(
-    """
-- ✔️ Achieved 95% accuracy with 0 false positives by leading a team of 4 to develop a lesion detection system for a CNN model in collaboration with the Skinopathy team.
-- ✔️ Improved CNN classifier accuracy from 81% to 89% by optimizing hyperparameters and model design, `reducing the Skin Cancer risk`.
-"""
-)
-
-# --- JOB 2
-st.write('\n')
-st.write("👨🏻‍💻", "**Beenova AI | Data Analyst**")
-st.write("July 2021 - Dec 2021 | Internship | Toronto, Canada |")
-st.write(
-    """
-- ✔️ Developed a 90% accurate ML model detecting elephant poaching in Southern Africa, aiding conservation and `reducing poaching by 2X`.
-- ✔️ Created training data for the model by consolidating data from 15+ sources.
-"""
-)
-
-# --- JOB 3
-st.write('\n')
-st.write("👨🏻‍💻", "**Cygnus Tech Nepal | Jr. Data Analyst**")
-st.write("July 2020 - Dec 2020 | Kathmandu, Nepal |")
-st.write(
-    """
-- ✔️ Successfully collected data through web scraping for research and client needs.
-- ✔️ Revamped client’s dashboards, resulting in a `20% increase in satisfaction and a 15% improvement in issue resolution`.
-- ✔️ Designed and implemented ETL (Extract, Transform, Load) operations that significantly improved workflow and efficiency, resulting in a `5X increase and reducing repetitive tasks`. These optimizations streamlined data processing and contributed to overall productivity and effectiveness.
-- ✔️ Developed user-friendly websites using WordPress, leveraging my skills in HTML, CSS, and JavaScript.
-"""
-)
-
-# --- JOB 4
-st.write('\n')
-st.write("👨🏻‍💻", "**National Academy of Science and Technology | Biotechnology Laboratory Assistant**")
-st.write("March 2018 - Aug 2018 | Internship | Kathmandu, Nepal |")
-st.write(
-    """
-- ✔️ Involved in the assessment of the antimicrobial, antifungal, antioxidant activity, and dye extraction of the endophytic fungi isolated from Rhododendron spp. and mushroom.
-- ✔️ PCR amplification of its ITS region
-"""
-)
 
 
 # --- Projects & Accomplishments ---
@@ -233,6 +188,34 @@ with col1:
 with col2:
     st_lottie(lottie_file_education, height=300, key='education')
 
+# --- WORK HISTORY ---
+st.write('\n')
+st.subheader("Work Experience")
+
+
+# --- JOB 1
+st.write('\n')
+st.write("👨🏻‍💻", "**Cygnus Tech Nepal | Jr. Data Analyst**")
+st.write("July 2020 - Dec 2020 | Kathmandu, Nepal |")
+st.write(
+    """
+- ✔️ Successfully collected data through web scraping for research and client needs.
+- ✔️ Revamped client’s dashboards, resulting in a `20% increase in satisfaction and a 15% improvement in issue resolution`.
+- ✔️ Designed and implemented ETL (Extract, Transform, Load) operations that significantly improved workflow and efficiency, resulting in a `5X increase and reducing repetitive tasks`. These optimizations streamlined data processing and contributed to overall productivity and effectiveness.
+- ✔️ Developed user-friendly websites using WordPress, leveraging my skills in HTML, CSS, and JavaScript.
+"""
+)
+
+# --- JOB 2
+st.write('\n')
+st.write("👨🏻‍💻", "**National Academy of Science and Technology | Biotechnology Laboratory Assistant**")
+st.write("March 2018 - Aug 2018 | Internship | Kathmandu, Nepal |")
+st.write(
+    """
+- ✔️ Involved in the assessment of the `antimicrobial, antifungal, antioxidant activity, and dye extraction` of the endophytic fungi isolated from Rhododendron spp. and mushroom.
+- ✔️ `PCR amplification` of its ITS region
+"""
+)
 
 # --- Certificate---
 st.write('\n')

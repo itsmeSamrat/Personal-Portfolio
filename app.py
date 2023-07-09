@@ -37,13 +37,14 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 AI Engineer | Skinopathy | Major Research Project | Toronto, Ontario, Canada | 4 months": "https://www.linkedin.com/in/itsmesamrat/",
     "🏆 Data Analyst | Beenova AI | Major Research Project | Toronto, Canada | 6 months": "https://www.linkedin.com/in/itsmesamrat/",
-    "🏆 EDA-on-Seattle-Airbnb-Data": "https://github.com/itsmeSamrat/EDA-on-Seattle-Airbnb-Data",
-    "🏆 CreditCardFraudAnalysis-Using-Pytorch": "https://github.com/itsmeSamrat/CreditCardFraudAnalysis-Using-Pytorch",
-    "🏆 Eye-Classification": "https://github.com/itsmeSamrat/Eye-Classification",
-    "🏆 Sentiment-Analysis-of-Amazon-App-Reviews-using-Azure-Services": "https://github.com/itsmeSamrat/Sentiment-Analysis-of-Amazon-App-Reviews-using-Azure-Services",
-    "🏆 Iris-Data-Splitting-Experiment": "https://github.com/itsmeSamrat/Iris-Data-Splitting-Experiment",
-    "🏆 German-Credit-Card-Assessment-A-Streamlit-Based-App": "https://github.com/itsmeSamrat/German-Credit-Card-Assessment-A-Streamlit-Based-App",
-    "🏆 RawDataToPredictiveModel-Red-Wine-Quality": "https://github.com/itsmeSamrat/RawDataToPredectiveModel-Red-Wine-Quality",
+    "🏆 Face Recognition System for Student Attendance": "https://github.com/itsmeSamrat/Face-Recognition-System-for-Student-Attendance",
+    "🏆 EDA on Seattle Airbnb Data": "https://github.com/itsmeSamrat/EDA-on-Seattle-Airbnb-Data",
+    "🏆 Credit Card Fraud Analysis Using Pytorch": "https://github.com/itsmeSamrat/CreditCardFraudAnalysis-Using-Pytorch",
+    "🏆 Eye Classification": "https://github.com/itsmeSamrat/Eye-Classification",
+    "🏆 Sentiment Analysis of App Reviews using Azure Services": "https://github.com/itsmeSamrat/Sentiment-Analysis-of-Amazon-App-Reviews-using-Azure-Services",
+    "🏆 Iris Data Splitting Experiment": "https://github.com/itsmeSamrat/Iris-Data-Splitting-Experiment",
+    "🏆 German Credit Card Assessment - A Streamlit Based App": "https://github.com/itsmeSamrat/German-Credit-Card-Assessment-A-Streamlit-Based-App",
+    "🏆 Raw Data To Predictive Model - Red Wine Quality": "https://github.com/itsmeSamrat/RawDataToPredectiveModel-Red-Wine-Quality",
     "🏆 MLJAR - AutoML": "https://github.com/itsmeSamrat/MLJAR-AutoML",
 }
 
@@ -152,10 +153,6 @@ st.write(
 - 🗃️ Data Handling:  Pandas, Excel, Selenium, BeautifulSoup
 """
 )
-
-
-
-
 
 # --- Projects & Accomplishments ---
 st.write('\n')

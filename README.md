@@ -11,7 +11,7 @@
 
 ## Description
 
-This is my personal website repository. This is heavenly inspired by Coding is Fun and I have provided all the resources used for this project in the acknowledgement.
+This is my [personal website](https://samrat.streamlit.app/) repository. This is heavenly inspired by Coding is Fun and I have provided all the resources used for this project in the acknowledgement.
 
 You can customize it as you please. The code is in readable format and is easy to follow.
 
